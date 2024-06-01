@@ -2,4 +2,4 @@
 
 For my own projects, see my git server: https://git.matt-barnes.co.uk/
 
-For something a bit more 'public', see my Codeberg profile: https://codeberg.org/mb2g17?tab=repositories
+For something a bit more 'public', see my Codeberg profile: https://codeberg.org/mb2g17
